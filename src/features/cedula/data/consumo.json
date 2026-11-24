@@ -1,0 +1,454 @@
+{
+  "cedulas": [
+    {
+      "cedula": "1710034065",
+      "pulseras": [
+        {
+          "id": "PX-00451",
+          "local": "KATARI Plaza",
+          "estado": "ACTIVA",
+          "total": 47.50,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 3,
+              "precio": 4.50
+            },
+            {
+              "producto": "Cóctel de la casa",
+              "cantidad": 2,
+              "precio": 9.50
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 15.00
+            }
+          ]
+        },
+        {
+          "id": "PX-00452",
+          "local": "KATARI Plaza",
+          "estado": "PAGADA",
+          "total": 34.50,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 3,
+              "precio": 4.50
+            },
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 2,
+              "precio": 10.50
+            }
+          ]
+        },
+        {
+          "id": "PX-00453",
+          "local": "KATARI Plaza",
+          "estado": "PAGADA",
+          "total": 28.00,
+          "items": [
+            {
+              "producto": "Hamburguesa KATARI",
+              "cantidad": 1,
+              "precio": 12.50
+            },
+            {
+              "producto": "Nachos especiales",
+              "cantidad": 1,
+              "precio": 8.50
+            },
+            {
+              "producto": "Cóctel de la casa",
+              "cantidad": 1,
+              "precio": 7.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "0912345675",
+      "pulseras": [
+        {
+          "id": "PX-00460",
+          "local": "KATARI Plaza",
+          "estado": "ACTIVA",
+          "total": 16.50,
+          "items": [
+            {
+              "producto": "Agua mineral",
+              "cantidad": 2,
+              "precio": 2.00
+            },
+            {
+              "producto": "Hamburguesa KATARI",
+              "cantidad": 1,
+              "precio": 12.50
+            }
+          ]
+        },
+        {
+          "id": "PX-00461",
+          "local": "KATARI Plaza",
+          "estado": "PAGADA",
+          "total": 42.00,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 4,
+              "precio": 4.50
+            },
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 1,
+              "precio": 12.00
+            },
+            {
+              "producto": "Papas KATARI",
+              "cantidad": 1,
+              "precio": 12.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "1714616123",
+      "pulseras": [
+        {
+          "id": "PX-00470",
+          "local": "KATARI Cumbayá",
+          "estado": "ACTIVA",
+          "total": 35.50,
+          "items": [
+            {
+              "producto": "Cóctel de maracuyá",
+              "cantidad": 2,
+              "precio": 8.50
+            },
+            {
+              "producto": "Hamburguesa KATARI",
+              "cantidad": 1,
+              "precio": 12.50
+            },
+            {
+              "producto": "Agua mineral",
+              "cantidad": 3,
+              "precio": 2.00
+            }
+          ]
+        },
+        {
+          "id": "PX-00471",
+          "local": "KATARI Cumbayá",
+          "estado": "PAGADA",
+          "total": 54.00,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 6,
+              "precio": 4.50
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 15.00
+            },
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 1,
+              "precio": 12.00
+            }
+          ]
+        },
+        {
+          "id": "PX-00472",
+          "local": "KATARI Cumbayá",
+          "estado": "PAGADA",
+          "total": 25.00,
+          "items": [
+            {
+              "producto": "Nachos especiales",
+              "cantidad": 1,
+              "precio": 8.50
+            },
+            {
+              "producto": "Cóctel de la casa",
+              "cantidad": 1,
+              "precio": 9.50
+            },
+            {
+              "producto": "Agua mineral",
+              "cantidad": 2,
+              "precio": 3.50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "1723456789",
+      "pulseras": [
+        {
+          "id": "PX-00480",
+          "local": "KATARI Whymper",
+          "estado": "ACTIVA",
+          "total": 63.50,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 5,
+              "precio": 4.50
+            },
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 2,
+              "precio": 10.00
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 11.00
+            }
+          ]
+        },
+        {
+          "id": "PX-00481",
+          "local": "KATARI Whymper",
+          "estado": "PAGADA",
+          "total": 31.00,
+          "items": [
+            {
+              "producto": "Hamburguesa KATARI",
+              "cantidad": 2,
+              "precio": 12.50
+            },
+            {
+              "producto": "Agua mineral",
+              "cantidad": 3,
+              "precio": 2.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "1752665693",
+      "pulseras": [
+        {
+          "id": "PX-00490",
+          "local": "KATARI Plaza",
+          "estado": "ACTIVA",
+          "total": 22.00,
+          "items": [
+            {
+              "producto": "Cóctel de la casa",
+              "cantidad": 1,
+              "precio": 9.50
+            },
+            {
+              "producto": "Nachos especiales",
+              "cantidad": 1,
+              "precio": 8.50
+            },
+            {
+              "producto": "Agua mineral",
+              "cantidad": 2,
+              "precio": 2.00
+            }
+          ]
+        },
+        {
+          "id": "PX-00491",
+          "local": "KATARI Plaza",
+          "estado": "PAGADA",
+          "total": 45.00,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 4,
+              "precio": 4.50
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 27.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "1720987654",
+      "pulseras": [
+        {
+          "id": "PX-00500",
+          "local": "KATARI Cumbayá",
+          "estado": "ACTIVA",
+          "total": 78.50,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 6,
+              "precio": 4.50
+            },
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 2,
+              "precio": 11.00
+            },
+            {
+              "producto": "Pizza personal",
+              "cantidad": 1,
+              "precio": 18.00
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 12.50
+            }
+          ]
+        },
+        {
+          "id": "PX-00501",
+          "local": "KATARI Cumbayá",
+          "estado": "PAGADA",
+          "total": 36.00,
+          "items": [
+            {
+              "producto": "Hamburguesa KATARI",
+              "cantidad": 2,
+              "precio": 12.50
+            },
+            {
+              "producto": "Gaseosa",
+              "cantidad": 2,
+              "precio": 5.50
+            }
+          ]
+        },
+        {
+          "id": "PX-00502",
+          "local": "KATARI Cumbayá",
+          "estado": "PAGADA",
+          "total": 19.00,
+          "items": [
+            {
+              "producto": "Cóctel de la casa",
+              "cantidad": 2,
+              "precio": 9.50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "1804567892",
+      "pulseras": [
+        {
+          "id": "PX-00510",
+          "local": "KATARI Whymper",
+          "estado": "ACTIVA",
+          "total": 14.50,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 1,
+              "precio": 4.50
+            },
+            {
+              "producto": "Nachos especiales",
+              "cantidad": 1,
+              "precio": 10.00
+            }
+          ]
+        },
+        {
+          "id": "PX-00511",
+          "local": "KATARI Whymper",
+          "estado": "PAGADA",
+          "total": 65.00,
+          "items": [
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 3,
+              "precio": 10.00
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 15.00
+            },
+            {
+              "producto": "Pizza personal",
+              "cantidad": 1,
+              "precio": 20.00
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cedula": "1102345678",
+      "pulseras": [
+        {
+          "id": "PX-00520",
+          "local": "KATARI Plaza",
+          "estado": "ACTIVA",
+          "total": 9.00,
+          "items": [
+            {
+              "producto": "Cerveza artesanal 10 oz",
+              "cantidad": 2,
+              "precio": 4.50
+            }
+          ]
+        },
+        {
+          "id": "PX-00521",
+          "local": "KATARI Plaza",
+          "estado": "PAGADA",
+          "total": 88.50,
+          "items": [
+            {
+              "producto": "Cóctel premium",
+              "cantidad": 3,
+              "precio": 10.50
+            },
+            {
+              "producto": "Hamburguesa KATARI",
+              "cantidad": 2,
+              "precio": 12.50
+            },
+            {
+              "producto": "Alitas BBQ",
+              "cantidad": 1,
+              "precio": 32.50
+            }
+          ]
+        },
+        {
+          "id": "PX-00522",
+          "local": "KATARI Plaza",
+          "estado": "PAGADA",
+          "total": 42.00,
+          "items": [
+            {
+              "producto": "Pizza personal",
+              "cantidad": 2,
+              "precio": 15.00
+            },
+            {
+              "producto": "Gaseosa",
+              "cantidad": 2,
+              "precio": 6.00
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
