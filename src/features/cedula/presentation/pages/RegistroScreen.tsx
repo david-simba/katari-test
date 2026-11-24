@@ -1,14 +1,15 @@
+import { useRouter } from 'expo-router';
 import {
-  View,
+  StyleSheet,
   Text,
   TextInput,
   TouchableOpacity,
-  StyleSheet,
+  View,
 } from 'react-native';
-
 import { useCedula } from '../hooks/useCedula';
 
 export const RegistroScreen = () => {
+  const router = useRouter();
   const {
     cedula,
     error,
@@ -17,13 +18,14 @@ export const RegistroScreen = () => {
   } = useCedula();
 
   const handleContinuar = () => {
-    if (!isValid) {
-      return;
-    }
+    if (!isValid) return;
 
-    console.log('Cédula válida:', cedula);
-
-    // navigation.navigate('SiguientePantalla');
+    router.push({
+      pathname: '/pulseras',
+      params: {
+        cedula,
+      },
+    });
   };
 
   return (
